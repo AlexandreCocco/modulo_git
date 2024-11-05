@@ -10,3 +10,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added o changelog.md
+
+## Tipos de mudanças
+
+- Added/Adicionado para novos recursos.
+
+- Changed/Modificado para alterações em recursos existentes.
+
+- Deprecated/Obsoleto para recursos que serão removidos nas próximas versões.
+
+- Removed/Removido para recursos removidos nesta versão.
+
+- Fixed/Corrigido para qualquer correção de bug.
+
+- Security/Segurança em caso de vulnerabilidades.
+
+## Padrões para nomear commits
+
+### Chore: usado para pequenas tarefas: 
+- git commit  –m “chore: removendo arquivo.txt”
+
+### Fix: correções: 
+- git commit  –m “fix: correção no cálculo de médias” 
+
+### Feat: inclusão de funcionalidade: 
+ - git commit  –m “feat: inclusão de função para calcular mediana” 
+
+### Docs: atualização de documentação: 
+- git commit  –m “atualizando o changelog.md”
